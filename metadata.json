@@ -1,0 +1,8 @@
+{
+  "name": "Book Kaaro AI Social Media Content Generator",
+  "description": "Generate structured, platform-tailored social media captions, hooks, CTAs, and weekly content calendars for Instagram, Facebook, LinkedIn, and TikTok on Book Kaaro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
